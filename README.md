@@ -1,2 +1,2 @@
-# CE622-ParallelProgram
-Code Repo for Parallel Programming Projects using CUDA and OpenMP
+# Multi Threading Program
+Program to solve basic matrix operations with multi-threading, using OpenMP and CUDA
